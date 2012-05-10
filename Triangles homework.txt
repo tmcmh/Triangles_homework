@@ -1,0 +1,20 @@
+Triangles homework
+
+array of right triangles (array of hashes)
+	color
+	side_1_length
+	side_2_length
+
+Requires...
+	Triangle list
+	Math
+
+def hypotenuse(triangle)
+def area(triangle)
+def color(triangle)
+
+Bonus (use enumerables)
+def hypotenuses
+def colors
+def areas
+
